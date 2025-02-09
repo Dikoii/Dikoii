@@ -59,6 +59,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dikoii/Dikoii/output/snake.svg" alt="Snake animation" />
+<![Snake animation](https://raw.githubusercontent.com/Dikoii/Dikoii/output/dist/snake.svg)
+
 
 ###
